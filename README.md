@@ -4,9 +4,9 @@
 ![Module](https://img.shields.io/badge/Module-COM1025%20Web%20%26%20Database%20Systems-blue)
 ![Tech Stack](https://img.shields.io/badge/Stack-PHP%20%7C%20MySQL%20%7C%20Java-orange)
 
-## � Project Overview
+## Project Overview
 
-This project was developed for the **COM1025 Web and Database Systems** module (University of Surrey, Year 1, Semester 1). It is a full-stack web application designed to manage a University Sports Park, featuring a robust database backend, a dynamic PHP frontend, and an auxiliary Java component for auction management.
+This project was developed for the **[COM1025 Web and Database Systems](https://catalogue.surrey.ac.uk/2022-3/module/COM1025)** module (University of Surrey, Year 1, Semester 1). It is a full-stack web application designed to manage a University Sports Park, featuring a robust database backend, a dynamic PHP frontend, and an auxiliary Java component for auction management.
 
 **Key Achievements:**
 - **Awarded Grade:** 73% (First Class).
@@ -15,7 +15,7 @@ This project was developed for the **COM1025 Web and Database Systems** module (
 
 ---
 
-## 🛠️ Technical Highlights
+## Technical Highlights
 
 ### 1. Database Architecture (MySQL)
 The core of the system is a relational database designed to handle staff, members, sessions, and memberships with integrity.
@@ -37,7 +37,7 @@ An independent component demonstrating OOP principles.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ├── website/                # Web Application Source Code
@@ -59,7 +59,7 @@ An independent component demonstrating OOP principles.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### prerequisites
 - **XAMPP/WAMP/MAMP** (or any environment with Apache & MySQL)
@@ -85,7 +85,7 @@ An independent component demonstrating OOP principles.
 
 ---
 
-## � Author
+## Author
 
 **Bipindra Rai**
 *BSc Computer Science Student*
